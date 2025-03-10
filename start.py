@@ -1,3 +1,9 @@
+'''
+
+objetivos: receber a temperatura da carne e informar qual o ponto da carne dependendo da sua temperatura
+
+'''
+
 temperatura = int(input('Qual temperatura esta a carne? '))
 
 if temperatura >= 71:
